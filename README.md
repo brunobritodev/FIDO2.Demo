@@ -19,5 +19,7 @@ Techs:
   * Open terminas (CTRL + \`)
   * dotnet run
 
+Device used for this demo [BioPass FIDO Security Key](https://www.ftsafe.com/store/product/biopass-fido-security-key/)
+
 There is a post about this code:
 [Integração ASP.NET Identity com FIDO2](https://brunobrito.net.br/asp-net-identity-fido2/)
